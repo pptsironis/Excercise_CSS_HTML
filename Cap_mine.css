@@ -1,0 +1,35 @@
+body{
+    background-color: #011627;
+    border-bottom: solid 50px #32baba;
+    border-left: solid 50px #32baba;
+    border-right: solid 50px #32baba;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+p{
+    margin: 50px 100px 50px 100px;
+    font-size: 20px
+}
+h2{
+    margin-bottom: 5%;
+}
+
+#sub{
+
+    height: 80px;
+    width: 150px;
+    background-color: yellow;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+label{
+    font-size: 20px;
+}
+
+input{
+    font-size: 20px;
+}
